@@ -1,0 +1,20 @@
+.Hexa{
+    /* background-color:rgb(206, 231, 246); */
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+.Hexa h1{
+    /* margin-bottom: 5%; */
+    padding-top: 30px;
+    font-weight: bold;
+    font-size: 50px;
+    /* margin-bottom: 30%; */
+    
+}
+.Hexa img{
+    margin-top: 0px;
+    width:60%;
+    margin-left: 0px;
+    margin-right: 16rem;
+    height: 70%;
+}

@@ -1,0 +1,20 @@
+body{
+    height: 140vh;
+}
+
+button{
+    background-color: lightgreen;
+    width: 170px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+}
+
+button:hover{
+    background-color: rgb(93, 93, 249);
+}
+
+.cards{
+    display: flex;
+    
+}

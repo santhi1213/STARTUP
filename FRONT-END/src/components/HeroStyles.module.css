@@ -1,0 +1,104 @@
+div{
+    text-align: center;
+}
+
+.num_pe{
+    color:rgb(0, 255, 204);
+}
+.people{
+    border-style: solid;
+    display: inline-block;
+    border-radius: 30px;
+    border-color: rgb(0, 255, 204);
+    width: 170px;
+    margin-right: 80%;
+    margin-right: 30px;
+    
+}
+.people svg{
+    width: 35px;
+    margin-top: -35px;
+    height: 60px;
+}
+
+.num_ro{
+    color:rgb(0, 255, 204);
+}
+.rocket{
+    border-style: solid;
+    display: inline-block;
+    border-radius: 30px;
+    border-color: rgb(0, 255, 204);
+    width: 170px;
+    margin-right: 40%;
+    margin-top: -60%;
+    margin-right: 20px;
+}
+.rocket svg{
+    width: 35px;
+    margin-top: -50px;
+    height: 60px;
+}
+
+.num_bi{
+    color:rgb(0, 255, 204);
+}
+.Bitcoin{
+    border-style: solid;
+    display: inline-block;
+    border-radius: 30px;
+    border-color: rgb(0, 255, 204);
+    width: 170px;
+    /* margin-left: 40%; */
+    margin-top: -100%;
+    height: 40%;
+}
+.Bitcoin svg{
+    width: 35px;
+    margin-top: -60px;
+    height: 60px;
+}
+
+.num_gr{
+    color: rgb(0, 255, 204);
+}
+.graph{
+    border-style: solid;
+    display: inline-block;
+    border-radius: 30px;
+    border-color: rgb(0, 255, 204);
+    width: 170px;
+    /* margin-left: 40%; */
+    margin-top: 60px;
+    height: 40%;
+    margin-left: 10px;
+    font-size: 10px;
+
+}
+.graph svg{
+    width: 35px;
+    margin-top: -60px;
+    height: 60px;
+}
+
+.num_ha{
+    color: rgb(0, 255, 204);
+}
+.hand{
+    border-style: solid;
+    display: inline-block;
+    border-radius: 30px;
+    border-color: rgb(0, 255, 204);
+    width: 170px;
+    /* margin-left: 40%; */
+    margin-top: 60px;
+    height: 40%;
+    margin-left: 10px;
+    font-size: 10px;
+    
+}
+.hand svg{
+    width: 35px;
+    margin-top: -60px;
+    height: 60px;
+}

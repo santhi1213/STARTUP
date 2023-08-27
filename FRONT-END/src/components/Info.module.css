@@ -1,0 +1,31 @@
+.destination{
+    margin:4rem 6rem;
+    text-align: center;
+}
+
+.destination h1{
+    font-size: 3rem;
+}
+.first_des{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 4.5rem;
+}
+.des_text{
+ width:45%;
+ text-align: start;
+ font-size: 1.1rem;
+
+}
+.des_text h2{
+    padding-bottom: 1rem;
+
+}
+.image_out img{
+   width:35%;
+   margin-top: -200px;
+   left: 50%;
+   border-radius: 60px;
+} 
+

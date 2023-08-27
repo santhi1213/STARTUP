@@ -1,0 +1,153 @@
+.about{
+    width: 700px;
+    margin-right: 47%;
+    margin-top: 100px;
+    z-index: -1;
+}
+
+.data{
+   
+    width: 600px;
+    height: 450px;
+    margin-top: 60px;
+    text-align: center;
+    margin-left: 50%;    
+}
+
+.startup{
+    margin-right: 10%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: -1;
+    opacity: 0.3;
+    margin-top: 0px;
+    width: 600px;
+    height: 450px;
+}
+
+.title{
+    font-size: 27px;
+}
+
+.text{
+    padding-left: 8px;
+    padding-right: 8px;
+    font-size: 17px;
+}
+
+.footer{
+    font-size: 30px;
+    margin-bottom: -0px;
+}
+
+
+
+.footer i{
+    margin-right: 30px;
+    cursor: pointer;
+}
+
+@media screen and (max-width:1350px) {
+    .about{
+        width: 600px;
+    }
+    .data{
+        width: 500px;
+        margin-left: 55%;
+    }
+    .startup{
+        margin-right: 6%;
+    }
+}
+
+@media screen and (max-width:1150px) {
+    .about{
+        width: 500px;
+    }
+    .data{
+        width: 500px;
+        margin-left: 55%;
+    }
+    .startup{
+        margin-right: -5%;
+    }
+}
+
+@media screen and (max-width:950px) {
+    .about{
+        width: 400px;
+    }
+    .data{
+        width: 400px;
+        margin-left: 50%;
+        margin-bottom: 100px;
+    }
+    .startup{
+        margin-right: -20%;
+    }
+}
+
+@media screen and (max-width:850px) {
+    .about{
+        width: 350px;
+    }
+    .data{
+        width: 400px;
+        margin-left: 50%;
+        margin-bottom: 100px;
+    }
+    .startup{
+        margin-right: -25%;
+    }
+}
+
+@media screen and (max-width:750px) {
+    .about{
+        width: 300px;
+    }
+    .data{
+        width: 300px;
+        margin-left: 50%;
+        margin-bottom: 270px;
+    }
+    .startup{
+        margin-right: -20%;
+        width: 500px;
+        height: 600px;
+    }
+}
+
+@media screen and (max-width:650px) {
+    .about{
+        width: 250px;
+    }
+    .data{
+        width: 300px;
+        margin-left: 50%;
+        margin-bottom: 270px;
+    }
+    .startup{
+        margin-right: -15%;
+        width: 400px;
+        height: 600px;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .about{
+        width: 430px;
+        margin-right: -20px;
+        margin-top: 20px;
+    }
+    .data{
+        width: 300px;
+        margin-left: 25%;
+        margin-top: 500px;
+        margin-bottom: 370px;
+    }
+    .startup{
+        margin-right: 0%;
+        width: 400px;
+        height: 600px;
+    }
+}

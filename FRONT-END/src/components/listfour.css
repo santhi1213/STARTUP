@@ -1,0 +1,10 @@
+.browse-te{
+    display: grid;
+    align-items: center;
+    margin-top: 3rem;
+   color: aliceblue;
+}
+.brow{
+    background-color: rgb(58, 57, 57);
+    padding-bottom: 6rem;
+}

@@ -1,0 +1,283 @@
+.wrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1510px;
+    margin-top: -200px;
+}
+
+.login{
+    width: 600px;
+    height: 520px;
+    border: 1px solid black;
+    padding: 20px;
+    color: black;
+    margin-top: 269px;
+    margin-right: -612px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+
+.im{
+    width: 600px;
+    height: 553px;
+    margin-top: 270px;
+    margin-right: 710px;
+    border-top-left-radius: 45px;
+    border-bottom-left-radius: 45px;
+}
+
+.btn1{
+    background-color: rgb(173, 249, 126);
+    width: 90px;
+    height: 40px;
+    border-radius: 8px;
+}
+
+.btn1:hover{
+    background-color: rgb(147, 250, 241);
+}
+
+
+.label1{
+    width: 100px;
+    height: 50px;
+}
+
+.label2{
+    width: 100px;
+    height: 50px;
+}
+
+.label3{
+    width: 100px;
+    height: 80px;
+}
+
+form{
+    padding-top: 10px;
+}
+
+.foot{
+    height: 100px;
+    background-color: lightgreen;
+    width: 100%;
+    margin-top: 80px;
+    padding-top: 50px;
+}
+
+
+@media screen and (max-width:1500px) {
+    .login{
+        width: 600px;
+        margin-right: -540px;
+    }
+    
+}
+
+@media screen and (max-width:1450px) {
+    .login{
+        width: 600px;
+        margin-right: -430px;
+    }
+}
+
+@media screen and (max-width:1400px) {
+    .login{
+        width: 600px;
+        margin-right: -328px;
+    }
+}
+
+@media screen and (max-width:1350px) {
+    .login{
+        width: 600px;
+        margin-right: -328px;
+    }
+
+    .im{
+        margin-right: 660px;
+    }
+}
+
+@media screen and (max-width:1300px) {
+    .login{
+        width: 600px;
+        margin-right: -328px;
+    }
+
+    .im{
+        margin-right: 610px;
+    }
+}
+
+@media screen and (max-width:1250px) {
+    .login{
+        width: 600px;
+        margin-right: -328px;
+    }
+
+    .im{
+        margin-right: 560px;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .login{
+        width: 500px;
+        margin-right: -240px;
+    }
+
+    .im{
+        margin-right: 500px;
+    }
+}
+
+@media screen and (max-width:1150px) {
+    .login{
+        width: 450px;
+        margin-right: -90px;
+    }
+
+    .im{
+        margin-right: 500px;
+        width: 500px;
+    }
+}
+
+@media screen and (max-width:1100px) {
+    .login{
+        width: 450px;
+        margin-right: -65px;
+    }
+
+    .im{
+        margin-right: 463px;
+        width: 500px;
+    }
+}
+
+@media screen and (max-width:1050px) {
+    .login{
+        width: 450px;
+        margin-right: -30px;
+    }
+
+    .im{
+        margin-right: 430px;
+        width: 500px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .login{
+        width: 450px;
+        margin-right: 62px;
+    }
+
+    .im{
+        margin-right: 430px;
+        width: 500px;
+    }
+}
+
+@media screen and (max-width:970px) {
+    .login{
+        width: 400px;
+        margin-right: 150px;
+    }
+
+    .im{
+        margin-right: 420px;
+        width: 400px;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .login{
+        width: 370px;
+        margin-right: 310px;
+    }
+
+    .im{
+        margin-right: 360px;
+        width: 370px;
+    }
+}
+
+@media screen and (max-width:850px) {
+    .login{
+        width: 370px;
+        margin-right: 390px;
+    }
+
+    .im{
+        margin-right: 340px;
+        width: 370px;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .login{
+        width: 320px;
+        margin-right: 470px;
+    }
+
+    .im{
+        margin-right: 320px;
+        width: 320px;
+    }
+}
+
+@media screen and (max-width:750px) {
+    .login{
+        width: 320px;
+        margin-right: 550px;
+    }
+
+    .im{
+        margin-right: 295px;
+        width: 320px;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .login{
+        width: 290px;
+        margin-right: 600px;
+    }
+
+    .im{
+        margin-right: 280px;
+        width: 320px;
+    }
+}
+
+@media screen and (max-width:650px) {
+    .login{
+        width: 450px;
+        margin-right: 920px;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+    }
+
+    .im{
+        margin-right: 655px;
+        width: 320px;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .login{
+        width: 400px;
+        margin-right: 1020px;
+        border-top-left-radius: 30px;
+        border-bottom-left-radius: 30px;
+    }
+
+    .im{
+        margin-right: 555px;
+        width: 320px;
+    }
+}

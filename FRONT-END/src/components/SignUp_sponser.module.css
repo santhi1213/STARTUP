@@ -1,0 +1,52 @@
+.wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 10vh;
+    margin-top: 290px;
+}
+
+.login2{
+    width: 600px;
+    border: 1px solid black;
+    height: 500px;
+    padding-top: 10px;
+    margin-top: -110px;
+    margin-left: -420px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.inputs{
+    width: 300px;
+}
+
+.btn{
+    background-color: lightgreen;
+    width: 90px;
+    height: 40px;
+    border-radius: 8px;
+}
+
+.btn:hover{
+    background-color: hotpink;
+}
+
+.signsponser{
+    width: 500px;
+    height: 532px;
+    margin-top: -110px;
+    margin-right: 165px;
+    border-top-right-radius: 45px;
+    border-bottom-right-radius: 45px;
+}
+.hide {
+    display: none;
+}
+
+.active {
+    margin-top: -2%;
+    margin-bottom: 0.5%;
+    color:red;
+}

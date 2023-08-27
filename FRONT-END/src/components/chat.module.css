@@ -1,0 +1,53 @@
+.app{
+    text-align: center;
+    justify-content: center;
+    margin-left: 650px;
+    border-radius: 15px;
+    width: 100%;
+    margin-top: 4%;
+    height: min-content;
+    display: flex;
+    z-index: -1;
+}
+
+@media screen and (max-width: 1400px) {
+    .app{
+        margin-left: 600px;
+    }
+}
+
+@media screen and (max-width: 1300px) {
+    .app{
+        margin-left: 550px;
+    }
+}
+
+@media screen and (max-width: 1100px) {
+    .app{
+        margin-left: 400px;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .app{
+        margin-left: 300px;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .app{
+        margin-left: 300px;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .app{
+        margin-left: 200px;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .app{
+        margin-left: 120px;
+    }
+}

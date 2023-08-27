@@ -1,0 +1,115 @@
+.imge{
+    width: 9%;
+    height: 19%;
+    border-radius: 50%;
+    margin-top: 1%;
+    margin-right: 87%;
+   
+}
+
+.upload{
+    margin-top: 130px;
+    margin-left: 50px;
+}
+
+.list{
+    width: 300px;
+    margin-top: 9%;
+    margin-left: 1%;
+    text-align: center;
+    border: 1px solid black;
+    height: 450px;
+    padding-top: 3%;
+    display: grid;   
+    background-color: black; 
+    border-radius: 15px;
+}
+
+.pro_items{
+   color:  white;
+}
+
+.pro_items:hover{
+    font-size: 20px;
+}
+
+
+@media screen and (max-width:1400px) {
+    .profiler{
+        height: 21%;
+    }
+}
+
+@media screen and (max-width:1200px) {
+    .profiler{
+        height: 18%;
+    }
+    .list{
+        width: 280px;
+    }
+}
+
+@media screen and (max-width:1000px) {
+    .profiler{
+        height: 16%;
+    }
+    .list{
+        width: 280px;
+    }
+}
+
+@media screen and (max-width:900px) {
+    .profiler{
+        height: 16%;
+    }
+    .list{
+        width: 280px;
+        margin-top: 12%;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .profiler{
+        height: 16%;
+    }
+    .list{
+        width: 280px;
+        margin-top: 14%;
+    }
+}
+
+@media screen and (max-width:700px) {
+    .profiler{
+        height: 16%;
+        width: 20%;
+        margin-right: 77%;
+    }
+    .list{
+        width: 240px;
+        margin-top: 16%;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .profiler{
+        height: 16%;
+        width: 20%;
+        margin-right: 77%;
+    }
+    .list{
+        width: 200px;
+        margin-top: 18%;
+    }
+}
+
+@media screen and (max-width:500px) {
+    .profiler{
+        height: 16%;
+        width: 20%;
+        margin-right: 77%;
+    }
+    .list{
+        width: 160px;
+        margin-top: 20%;
+    }
+}
