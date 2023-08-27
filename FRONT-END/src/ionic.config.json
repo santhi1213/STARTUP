@@ -1,0 +1,7 @@
+{
+    "name": "sponsership",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
